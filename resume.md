@@ -10,18 +10,19 @@ header:
   - text: <span class="iconify" data-icon="tabler:brand-github"></span> corneliustantius
     link: https://github.com/Renovamen
 ---
-<span style="font-size: 12px; text-algin:center;">Software Engineer experienced in building backend services and production systems across education, consulting, and travel sectors. Skilled in backend development, API integration, and system reliability, with exposure to AI development.</span>
+<span style="font-size: 13px; text-algin:center;">Software Engineer experienced in building backend services and production systems across education, consulting, and travel sectors. Skilled in backend development, API integration, and system reliability, with exposure to AI development.</span>
 
 
 <!-- - text: <span class="iconify" data-icon="charm:person"></span> zxh.me
     link: https://zxh.me -->
+
 
 ## Education
 
 **Bina Nusantara University**
   ~ Jakarta, Indonesia
 
-Ba. Computer Science (3.94/4.0)
+Ba. Computer Science (AI Stream with GPA 3.94/4.0)
   ~ 08/2019 - 03/2023
 
 
@@ -42,56 +43,57 @@ Ba. Computer Science (3.94/4.0)
 
 ## Experience
 
-**Cooking Engineer Intern**
-  ~ Microwavesoft
-  ~ 07/2021 - Present
+**Senior Software Engineer** *(SDE-2)*
+  
+  ~ 2024 - 2025
+  
+  Traveloka
 
-- Developed an innovative, versatile cooking methodology applicable across diverse ingredients, incorporating and improving upon recent culinary trends
-- Created a streamlined cream of mushroom soup recipe, achieving results comparable to complex state-of-the-art techniques through a novel mushroom-cutting approach; published in NIPS 2099 (see [~P1])
-- Designed a specialized cooking pan that enhanced research efficiency for team members
-
-
-**Engineering Chef Intern**
-  ~ University of California, Berkebake
-  ~ 08/2020 - Present
-
-- Developed a precise mapo tofu quality assessment technique using thermometer-based measurements
-- Invented a rapid stir-frying algorithm for tofu cooking, replacing vague instructions like "add as much as you can" with specific hot sauce measurements; published in CVPR 2077 (see [~P2])
-- Outperformed SOTA cooking methods in both efficiency and quality across experiments with popular tofu types
+- Built and maintain scalable backend services across Ground Transport (airport transfers, car rentals), Travel Activities (attractions, tours, experiences), and Cruise Booking domains.
+- Drove technical excellence and cost efficiency by refactoring legacy systems and optimizing existing workﬂows, allowing less development complexity on 2 major product project and several subprojects (~30% on discoverability and ~20% on buyability).
+- Designed and developed provider API integration module that allow seamless provider integration (reducing 95% development effort during integration)
+- Improved information clarity that increase purchase conversion rate to ~10% and reduce customer contact rate ~40%
 
 
-**Student Chef**
-  ~ Cabbage Melon University
-  ~ 03/2020 - 06/2020
+**Software Engineer** *(SDE-1 Contract)*
+  ~ 2023 - 2024
 
-- Developed an innovative mapo tofu consumption framework utilizing a spoon-chopstick combination
-- Engineered a filtering method for tofu dataset creation, inspired by bean grinding techniques
-- Established two new metrics for evaluating eating plan novelty and diversity
-- Significantly surpassed existing methods and baselines in diversity, novelty, and coherence
+Kamoro Maxima Integra
+
+- Developed backend system for PT Freeport Indonesia to assist mining operational audit, monitor, and safety protocol to reduce casualty and audit time for mining tools and machines.
+- Ensure scalability, reliability and maintainability of one of most used internal program to allow site-worker to easily asccess transportation on mining site.
 
 
-**Research Chef Intern**
-  ~ Snapchopstick
-  ~ 07/2018 - 08/2018
+**Software Engineer** *(SDE-1)*
+  ~ 2020 - 2023
 
-- Designed two novel sandwiches by repurposing breads and meat from traditional bacon cheeseburgers, maximizing resource efficiency
-- Leveraged structure duality to boost cooking speed for two complementary tasks based on shared ingredients
-- Surpassed strong baselines on QWE'15 and ASDF'14 dataset
+IT Division - Bina Nusantara University
+
+- Start off 
+- Developed backend systems and automation for Zoom API integration during covid, allowing attendance system to shift 100% by system during class, and later scale up the system to enable wifi-attendance checking in campus.
+- Developed internal project DevBees as a platform for internal documentation including API contract, Master & Transaction Database relational, and also general knowledge docs. Allowing internal documentation to have 0 cost
 
 
 ## Awards and Honors
 
-**Gold**, International Collegiate Catching Fish Contest (ICCFC)
-  ~ 2018
+**Top 7% from 964 Teams**, Shopee Code League - Multi-Channel Contacts
+  ~ 2021
 
-**First Prize**, China National Scholarship for Outstanding Dragon Killers
-  ~ 2017, 2018
+**Top 12% from 823 Teams**, Shopee Code League - Product Detection
+  ~ 2020
+
+**Participant**, Computer Olimipade Province
+  ~ 2017
 
 
 ## Skills
 
-**Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Frython, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaSauce / <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeSauce, <span class="iconify" data-icon="vscode-icons:file-type-cpp2"></span> Cheese++, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java Bean
+<!-- **Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Frython, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaSauce / <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeSauce, <span class="iconify" data-icon="vscode-icons:file-type-cpp2"></span> Cheese++, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java Bean -->
 
-**Tools and Frameworks:** GrillHub, PanFlow, TensorFork, SpiceNet, $\LaTeX$
+**Programming Languages:** Java, JavaScript, TypeScript, Python, C#, C/C++, PHP,Terraform
 
-**Languages:** Chinese (native), English (proficient)
+**Tools and Frameworks:** Git, Spring, .NET, Tensor, Keras, Flask, Django, Fastapi Node, React, Vue, 
+
+**Database:** MongoDB, DynamoDB, Elastic, PSQL, MSSQL
+
+**Languages:** Indonesia (Native), English (Proficient), Chinese (Intermediate)
