@@ -49,13 +49,13 @@ Ba. Computer Science (AI Stream with GPA 3.94/4.0)
   
   Traveloka
 
-- Built and maintain scalable backend services across Ground Transport (airport transfers, car rentals), Travel Activities (attractions, tours, experiences), and Cruise Booking domains.
+- Built and maintain scalable backend services across Ground Transport (airport transfers, car rentals), Travel Activities (attractions, tours, experiences), and Cruise Booking domains all using Java Spring & AWS.
 - Drove technical excellence and cost efficiency by refactoring legacy systems and optimizing existing workﬂows, allowing less development complexity on 2 major product project and several subprojects (~30% on discoverability and ~20% on buyability).
 - Designed and developed provider API integration module that allow seamless provider integration (reducing 95% development effort during integration)
 - Improved information clarity that increase purchase conversion rate to ~10% and reduce customer contact rate ~40%
 
 
-**Software Engineer** *(SDE-1 Contract)*
+**Software Engineer** *(SDE-1)*
   ~ 2023 - 2024
 
 Kamoro Maxima Integra
@@ -69,7 +69,7 @@ Kamoro Maxima Integra
 
 IT Division - Bina Nusantara University
 
-- Start off 
+- Start off from Associate Member and wave through JSE then SE.
 - Developed backend systems and automation for Zoom API integration during covid, allowing attendance system to shift 100% by system during class, and later scale up the system to enable wifi-attendance checking in campus.
 - Developed internal project DevBees as a platform for internal documentation including API contract, Master & Transaction Database relational, and also general knowledge docs. Allowing internal documentation to have 0 cost
 
@@ -82,7 +82,7 @@ IT Division - Bina Nusantara University
 **Top 12% from 823 Teams**, Shopee Code League - Product Detection
   ~ 2020
 
-**Participant**, Computer Olimipade Province
+**Participant**, Province Computer Olympics
   ~ 2017
 
 
