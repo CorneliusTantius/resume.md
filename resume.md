@@ -17,9 +17,17 @@ header:
 
 ## Experience
 
+**Senior Fullstack Engineer** (SDE-3)
+  ~ Mar 2026 - Present
+
+  Singapay
+
+- Implemented major Virtual Account Core generation algorithm enhancement to reduce VA generation process time, latency and database load.
+- Implemented pending transaction handling to reduce manual operational contact rate up to ~90%.
+
 **Software Engineer** *(SDE-2)*
   
-  ~ Nov 2024 - Present
+  ~ Nov 2024 - Mar 2026
   
   Traveloka
 
