@@ -22,6 +22,7 @@ header:
 
   Singapay
 
+- Create end to end gift checkout web and integrate with payment link gateway.
 - Implemented major Virtual Account Core generation algorithm enhancement to reduce VA generation process time, latency and database load.
 - Implemented pending transaction handling to reduce manual operational contact rate up to ~90%.
 
