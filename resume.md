@@ -9,9 +9,9 @@ header:
   - text: corneliustantius.ct@gmail.com
     link: mailto:corneliustantius.ct@gmail.com
   - text: corneliustantius
-    link: https://github.com/Renovamen
+    link: https://github.com/corneliustantius
 ---
-<span style="font-size: 13px; text-algin:center;">&emsp;Software Engineer experienced in building backend services and production systems across education, consulting, and travel sectors (streamlined to booking and post-booking system). Skilled in backend development, API integration, and system reliability, with exposure to AI developmet such as integrating AI to system, and using AI to increase development efficiency.</span>
+<p style="font-size: 13px; text-align: justify;" align="justify">Software Engineer experienced in building backend services and production systems across education, consulting, and travel sectors (including booking and post-booking systems). Skilled in backend development, API integration, and system reliability, while growing experience in DevOps and infrastructure practices such as deployment strategies (e.g., blue-green), cloud environments, and Infrastructure as Code (IaC). Familiar with integrating AI into systems and leveraging AI to improve development efficiency.</p>
 
 <br/>
 
@@ -22,8 +22,9 @@ header:
 
   Singapay
 
+- Setup branching strategy, repo rules and CICD & release standarization.
 - Create end to end gift checkout web and integrate with payment link gateway.
-- Implemented major Virtual Account Core generation algorithm enhancement to reduce VA generation process time, latency and database load.
+- Implemented major Virtual Account Core generation algorithm enhancement to reduce VA generation process time, latency and database load (2-3 minutes) to less than 1s generation time.
 - Implemented pending transaction handling to reduce manual operational contact rate up to ~90%.
 
 **Software Engineer** *(SDE-2)*
@@ -36,6 +37,7 @@ header:
 - Drove technical excellence and cost efficiency by refactoring legacy systems and optimizing existing workﬂows, allowing less development complexity on 2 major product project and several subprojects (~30% on discoverability and ~20% on buyability).
 - Designed and developed provider API integration module that allow seamless provider integration (reducing 95% development effort during integration).
 - Improved information clarity that increase purchase conversion rate to ~10% and reduce customer contact rate ~40%.
+- Actively maintain project vulnerability issues, manage product domain IAC using terraform.
 
 
 
@@ -69,6 +71,7 @@ IT Division - Bina Nusantara University
 Ba. Computer Science (AI Stream with GPA 3.94/4.0)
   ~ 08/2019 - 03/2023
 
+<br style = "margin=20px;"></br>
 
 ## Awards and Honors
 
@@ -80,9 +83,6 @@ Ba. Computer Science (AI Stream with GPA 3.94/4.0)
 
 **Participant**, Province Computer Olympics
   ~ 2017
-
-
-<br style="margin: 20px 0;"/>
 
 
 ## Skills
